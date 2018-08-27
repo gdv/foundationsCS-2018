@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Foundations of Computer Science
+title: Foundations of Computer Science (2018-19)
 ---
 
 ## SQL
