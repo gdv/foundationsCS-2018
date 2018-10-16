@@ -22,7 +22,7 @@ title: Foundations of Computer Science (2018-19)
 | -- | --- | ----- | -------------------------------------- | ---------- | ------------- | --------- |
 | 7 | MP  | 26/10 | Queries on 1 table  |[slides](https://drive.google.com/file/d/1d8KW_tkV93m5oTlqt6lyXQkEC8ecdhnr/view?usp=sharing) | | |
 | -- | --- | ----- | -------------------------------------- | ---------- | ------------- | --------- |
-| 8  | GDV | 30/10 |Pandas: introduction and indexing. Groupby.    |  [Notebook](https://jakevdp.github.io/PythonDataScienceHandbook/03.01-introducing-pandas-objects.html)  [Notebook](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.02-Data-Indexing-and-Selection.ipynb)  |[Exercise](http://elearning.unimib.it/mod/page/view.php?id=186786)  |[Solution](http://elearning.unimib.it/mod/resource/view.php?id=188299)|
+| 8  | GDV | 30/10 |Pandas: introduction and indexing. Groupby.    |  [Notebook](https://jakevdp.github.io/PythonDataScienceHandbook/03.01-introducing-pandas-objects.html)  [Notebook](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.02-Data-Indexing-and-Selection.ipynb)  |[Exercise](py-04-pandas) |[Solution](https://nbviewer.jupyter.org/github/gdv/foundationsCS-2018/blob/master/py-04-pandas.ipynb) |
 | -- | --- | ----- | -------------------------------------- | ---------- | ------------- | --------- |
 | 9 | MP  | 9/11 |Pandas: aggregating data                | [Notebook](https://github.com/jakevdp/PythonDataScienceHandbook/blob/f2c4a8af3f6e7e5f455469839e31b09ab6c22868/notebooks/02.04-Computation-on-arrays-aggregates.ipynb) [Docs](http://pandas.pydata.org/pandas-docs/stable/groupby.html)| [Exercise](py-05-groupby)| [Solution](https://nbviewer.jupyter.org/github/gdv/foundationsCS-2018/blob/master/py-05-groupby.ipynb)|
 | -- | --- | ----- | -------------------------------------- | ---------- | ------------- | --------- |
@@ -42,7 +42,7 @@ title: Foundations of Computer Science (2018-19)
 | -- | --- | ----- | -------------------------------------- | ---------- | ------------- | --------- |
 | 17 | GDV | 4/12 |Set operations                          |[slides](https://drive.google.com/file/d/1dsyUzA722h-dunnQgmyFA98lQp3gRa3V/view?usp=sharing)| [Exercise](sql-04-join-2)  | [Solution](https://github.com/gdv/foundationsCS-2018/blob/master/sql-04-join-2.sql)          |
 | -- | --- | ----- | -------------------------------------- | ---------- | ------------- | --------- |
-| 18 | GDV | 11/12 |Nested queries. Accessing databases     |[slides](https://drive.google.com/open?id=1lCArdEEEa6_erOWoR3B0I-Nsyu8Ey0fY) |[Exercise](sql-05-nested) [Exercise](py-13-employees) [Solution](https://nbviewer.jupyter.org/github/gdv/foundationsCS-2018/blob/master/py-13-employees.ipynb)| |
+| 18 | GDV | 11/12 |Nested queries. Accessing databases     |[slides](https://drive.google.com/open?id=1lCArdEEEa6_erOWoR3B0I-Nsyu8Ey0fY) |[Exercise](sql-05-nested) [Exercise](py-13-employees)|[Solution](https://nbviewer.jupyter.org/github/gdv/foundationsCS-2018/blob/master/py-13-employees.ipynb)  |
 | -- | --- | ----- | -------------------------------------- | ---------- | ------------- | --------- |
 | 19 | MP  | 14/12 |Case study                              | |[Exercise](py-14-fifa) | |
 | -- | --- | ----- | -------------------------------------- | ---------- | ------------- | --------- |
