@@ -1,4 +1,4 @@
--- On the customers table of the sample database MyWind compute
+-- On the customers table of the sample database NorthWind compute
 
 --     the contents of the table
 select *

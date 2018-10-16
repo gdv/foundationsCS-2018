@@ -16,9 +16,9 @@ title: Foundations of Computer Science (2018-19)
 | -- | --- | ----- | -------------------------------------- | ---------- | ------------- | --------- |
 | 4  | MP  | 12/10 | Regular Expressions                    |  [Regex Docs](https://docs.python.org/3/howto/regex.html) [Notebook](https://github.com/gdv/foundationsCS-2018/blob/master/ex-02-RE.ipynb) [email.txt](https://github.com/gdv/foundationsCS-2018/blob/master/ex-data/email.txt)   | | |
 | -- | --- | ----- | -------------------------------------- | ---------- | ------------- | --------- |
-| 5  | GDV | 16/10 |Select..From..Where on 1 table. Aggregate operators  |[slides](https://drive.google.com/file/d/13pfyI0h9huoDYHIfBXYjoZje5w2XTNbK/view?usp=sharing) [old slides](http://elearning.unimib.it/mod/resource/view.php?id=187162)            | | |
+| 5  | GDV | 16/10 |Select..From..Where on 1 table. Aggregate operators  |[slides](https://drive.google.com/file/d/13pfyI0h9huoDYHIfBXYjoZje5w2XTNbK/view?usp=sharing)     |[SQL 1 table](sql-01-sfw) |[Solution](https://github.com/gdv/foundationsCS-2018/blob/master/sql-01-sfw.sql) |
 | -- | --- | ----- | -------------------------------------- | ---------- | ------------- | --------- |
-| 6  | MP  | 19/10 | Queries on 1 table  |[slides](https://drive.google.com/file/d/1d8KW_tkV93m5oTlqt6lyXQkEC8ecdhnr/view?usp=sharing) |[SQL 1 table](sql-01-sfw) |[Solution](https://github.com/gdv/foundationsCS-2018/blob/master/sql-01-sfw.sql) |
+| 6  | MP  | 19/10 | Queries on 1 table  |[slides](https://drive.google.com/file/d/1d8KW_tkV93m5oTlqt6lyXQkEC8ecdhnr/view?usp=sharing) | | |
 | -- | --- | ----- | -------------------------------------- | ---------- | ------------- | --------- |
 | 7  | GDV | 23/10 |Pandas: introduction and indexing. Groupby.    |  [Notebook](https://jakevdp.github.io/PythonDataScienceHandbook/03.01-introducing-pandas-objects.html)  [Notebook](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.02-Data-Indexing-and-Selection.ipynb)  |[Exercise](http://elearning.unimib.it/mod/page/view.php?id=186786)  |[Solution](http://elearning.unimib.it/mod/resource/view.php?id=188299)|
 | -- | --- | ----- | -------------------------------------- | ---------- | ------------- | --------- |
