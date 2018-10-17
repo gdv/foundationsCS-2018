@@ -14,7 +14,7 @@ title: Foundations of Computer Science (2018-19)
 | -- | --- | ----- | -------------------------------------- | ---------- | ------------- | --------- |
 | 3  | GDV | 9/10 |Separator-based files. Relational model DBMS. Schemas and instances. Exploring a DB. Constraints, Keys, Indices. Null values. Linux shell. |[slides](https://oc.dellavedova.org/s/aj5bSdTY9cGxTxd) [slides](https://drive.google.com/file/d/1aei9sQry7p9UAoxP1TY9xPkkwocPbvqP/view?usp=sharing) |[slides](http://elearning.unimib.it/mod/resource/view.php?id=187159) [slides](http://elearning.unimib.it/mod/resource/view.php?id=187161) [slides null values](https://drive.google.com/file/d/1oPar1TsmqYps8V5nPZSMo0mca6mt5Dur/view?usp=sharing) | | |
 | -- | --- | ----- | -------------------------------------- | ---------- | ------------- | --------- |
-| 4  | MP  | 12/10 | Reading files, functions, and libraries.  |  | Same exercise as Lesson 2 | |
+| 4  | MP  | 12/10 | Reading files, functions, and libraries.  |  | Same exercise as Lesson 2 | [Full solution to ex-01](https://github.com/gdv/foundationsCS-2018/blob/master/ex-01-DictFilesFunc-solution-full.ipynb) |
 | -- | --- | ----- | -------------------------------------- | ---------- | ------------- | --------- |
 | 5  | MP  | 19/10 | Regular Expressions  | [Regex Docs](https://docs.python.org/3/howto/regex.html) | [Exercise](https://github.com/gdv/foundationsCS-2018/blob/master/ex-02-RE.ipynb), [email.txt](https://github.com/gdv/foundationsCS-2018/blob/master/ex-data/email.txt) | |
 | -- | --- | ----- | -------------------------------------- | ---------- | ------------- | --------- |
