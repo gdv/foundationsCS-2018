@@ -17,24 +17,22 @@ select *
 from customers
 where notes is not null;
 
---     the customers with state_province that is one of UT, MN, and WI.
-select *
-from customers
-where state_province is 'UT' or
-      state_province is 'MN' or
-      state_province is 'WI';
+--     the total number of orders
 
---     the customers whose address starts with "456"
-select *
-from customers
-where address like '456%';
+select count(*)
+from orders;
 
---     the customers whose last_name is at least 4 characters long
-select *
-from customers
-where last_name like '____%';
+--     the number of orders for each customer
 
---     the customers with ID larger than 20
-select *
-from customers
-where id > 20;
+select customer_id, count(*)
+from orders
+group by customer_id;
+
+--     for each customer, the number of orders such that the shipping fee is larger than 20.
+
+select customer_id, count(*)
+from orders
+group by customer_id
+where shipping_fee > 20;
+
+
