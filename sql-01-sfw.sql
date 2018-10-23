@@ -2,37 +2,37 @@
 
 --     the contents of the table
 select *
-from customers;
+from product;
 
 --     the values of the ID field
-select id
-from customers;
+select Id
+from product;
 
---     the values of the last_name and first_name fields
-select last_name, first_name
-from customers;
+--     the values of the contactname and contacttitle fields of customer
+select contactname, contacttitle
+from customer;
 
---     the tuples with a non-NULL note
+--     the employees with a NULL note
 select *
-from customers
+from employee
 where notes is not null;
 
 --     the total number of orders
 
 select count(*)
-from orders;
+from "order";
 
 --     the number of orders for each customer
 
 select customer_id, count(*)
-from orders
-group by customer_id;
+from "order"
+group by customerid;
 
---     for each customer, the number of orders such that the shipping fee is larger than 20.
+--     for each customer, the number of orders such that ShipVia is 2.
 
 select customer_id, count(*)
-from orders
+from "order"
 group by customer_id
-where shipping_fee > 20;
+where ShipVia 20;
 
 
