@@ -59,6 +59,15 @@ The final project for this year will be published after the end of the course
 
 [Instructions](Azure-Jupyter.pdf)
 
+1.  SSH into the VM. Launch the following commands **in the VM**
+    2.  `source activate py36`
+    3.  `byobu`
+    4.  `jupyter-notebook –no-browser`
+    5.  copy the jupyter URL
+2.  On your PC, in the Command Prompt / Linux Terminal:
+    1.  `plink -ssh -L 8888:localhost:8888 -P 63093 studente@dellavedova-lab1328112946001.northeurope.cloudapp.azure.com`
+3.  On your PC, go the the jupyter URL
+
 ## Linux shell commands
 
 *  [ls, cd, pwd](https://asciinema.org/a/197295)
