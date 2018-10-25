@@ -20,7 +20,7 @@ title: Foundations of Computer Science (2018-19)
 | -- | --- | ----- | -------------------------------------- | ---------- | ------------- | --------- |
 | 6  | GDV | 23/10 |Select..From..Where on 1 table. Aggregate operators  |[slides](https://gdv.github.io/introduction_to_relational_databases/02-sql-single-table.pdf)     |[Northwind 1](sql-01-sfw) |[Solution](https://github.com/gdv/foundationsCS-2018/blob/master/sql-01-sfw.sql) |
 | -- | --- | ----- | -------------------------------------- | ---------- | ------------- | --------- |
-| 7 | MP  | 26/10 | Queries on 1 table  |  |[Northwind 2](sql-02-sfw-group-by) |[Solution](https://github.com/gdv/foundationsCS-2018/blob/master/sql-02-sfw-gropyby.sql) |
+| 7 | MP  | 26/10 | Queries on 1 table  |  |[Northwind 2](sql-02-sfw-group-by) |[Solution](https://github.com/gdv/foundationsCS-2018/blob/master/sql-02-gropyby.sql) |
 | -- | --- | ----- | -------------------------------------- | ---------- | ------------- | --------- |
 | 8  | GDV | 30/10 |Pandas: introduction and indexing. Groupby.    |  [Notebook](https://jakevdp.github.io/PythonDataScienceHandbook/03.01-introducing-pandas-objects.html)  [Notebook](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.02-Data-Indexing-and-Selection.ipynb)  |[Exercise](py-04-pandas) |[Solution](https://nbviewer.jupyter.org/github/gdv/foundationsCS-2018/blob/master/py-04-pandas.ipynb) |
 | -- | --- | ----- | -------------------------------------- | ---------- | ------------- | --------- |
