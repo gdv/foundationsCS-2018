@@ -25,7 +25,7 @@ where id > 20;
 
 --     the number of customers that have placed at least an order
 
-select distinct count(customer_id)
+select count(distinct customer_id)
 from orders;
 
 --     the customers that have placed at least two orders
