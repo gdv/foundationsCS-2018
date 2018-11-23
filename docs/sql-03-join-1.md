@@ -1,6 +1,6 @@
 # Exercise
 
-Using the *MyWind* database:
+On the *NorthWind* database:
 
 1.  find all employees that have created at least a purchase
 2.  find all employees that have created at least 2 purchases
