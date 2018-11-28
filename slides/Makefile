@@ -16,6 +16,4 @@ pdfs=$(mds:.md=.pdf)
 # html: $(mds:.md=.html)
 
 pdf: $(pdfs)
-
-release: $(pdfs)
-	git add -f $(pdfs) ; git commit -m 'slides updated'
+	
