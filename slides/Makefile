@@ -16,4 +16,6 @@ pdfs=$(mds:.md=.pdf)
 # html: $(mds:.md=.html)
 
 pdf: $(pdfs)
-	
+
+release: $(pdfs)
+	for f in *.pdf; do rsync -avc --delete $f ~/B121/FoCS/ ; done
