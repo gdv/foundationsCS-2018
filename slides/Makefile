@@ -18,4 +18,4 @@ pdfs=$(mds:.md=.pdf)
 pdf: $(pdfs)
 
 release: $(pdfs)
-	for f in *.pdf; do rsync -avc --delete $f ~/B121/FoCS/$f/ ; done
+	git add -f $(pdfs) ; git commit -m 'slides updated'
