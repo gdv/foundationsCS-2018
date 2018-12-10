@@ -1,5 +1,3 @@
-# Exercise
-
 Using the *NorthWind* database:
 
 1.  Find the employees that have created no purchases (using a set operation)  
