@@ -49,7 +49,7 @@ select distinct customers.city
 from customers, orders
 where customers.city = orders.ship_city;
 
---  Compute the cities that have a customer or a supplier
+--  Compute the cities that have a customer or are the destination of a shipment
 select city
 from customers
 
