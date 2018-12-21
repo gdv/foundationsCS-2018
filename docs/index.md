@@ -52,9 +52,6 @@ title: Foundations of Computer Science (2018-19)
 ## Final project
 
 *  [Project](project)
-*  [2017 project](https://gdv.github.io/foundationsCS/2017-project)
-
-The final project for this year will be published after the end of the course
 
 ## Connect to the Jupyter Notebook
 
