@@ -9,7 +9,7 @@ Starting from the [Google Play Store](https://github.com/gdv/foundationsCS-2018/
 1.  Remove the duplicates
 1.  For each category, compute the number of apps
 1.  For each category, compute the average rating
-1.  Create two dataframes: one for the genres and one bridging apps and genders. So that, for instance, the app *Pixel Draw - Number Art Coloring Book* appears twice in the bridging table, once for *Art & Design*, once for *Creativity*
+1.  Create two dataframes: one for the genres and one bridging apps and genres. So that, for instance, the app *Pixel Draw - Number Art Coloring Book* appears twice in the bridging table, once for *Art & Design*, once for *Creativity*
 1.  For each genre, create a new column of the original dataframe. The new columns must have boolean values (True if the app has a given genre)
 1.  For each genre, compute the average rating. What is the genre with highest average?
 1.  For each app, compute the approximate income, obtain as a product of number of installs and price.
